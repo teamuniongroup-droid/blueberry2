@@ -5,7 +5,7 @@
 
 // Open YouTube video in a new tab
 function openYouTube() {
-    window.open('https://www.youtube.com', '_blank', 'noopener,noreferrer');
+    window.open('https://www.youtube.com/watch?v=EX2a_csSPVY&t=1s', '_blank', 'noopener,noreferrer');
 }
 
 // Smooth scroll behavior for anchor links
